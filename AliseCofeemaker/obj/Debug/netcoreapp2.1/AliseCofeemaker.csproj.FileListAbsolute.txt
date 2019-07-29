@@ -1,0 +1,11 @@
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\bin\Debug\netcoreapp2.1\AliseCofeemaker.deps.json
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\bin\Debug\netcoreapp2.1\AliseCofeemaker.runtimeconfig.json
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\bin\Debug\netcoreapp2.1\AliseCofeemaker.runtimeconfig.dev.json
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\bin\Debug\netcoreapp2.1\AliseCofeemaker.dll
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\obj\Debug\netcoreapp2.1\AliseCofeemaker.csprojAssemblyReference.cache
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\obj\Debug\netcoreapp2.1\AliseCofeemaker.csproj.CoreCompileInputs.cache
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\obj\Debug\netcoreapp2.1\AliseCofeemaker.RazorAssemblyInfo.cache
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\obj\Debug\netcoreapp2.1\AliseCofeemaker.RazorAssemblyInfo.cs
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\obj\Debug\netcoreapp2.1\AliseCofeemaker.AssemblyInfoInputs.cache
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\obj\Debug\netcoreapp2.1\AliseCofeemaker.AssemblyInfo.cs
+C:\Users\dev\Source\Repos\AliseCofeemaker\AliseCofeemaker\obj\Debug\netcoreapp2.1\AliseCofeemaker.RazorTargetAssemblyInfo.cache
